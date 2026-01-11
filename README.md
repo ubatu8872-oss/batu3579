@@ -1,2 +1,2 @@
 # batu3579
-Apple llgs
+Windows Bochs
